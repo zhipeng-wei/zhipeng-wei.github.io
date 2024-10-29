@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of [FVL](https://fvl.fudan.edu.cn/) Group in the School of Computer Science, Fudan University, advised by Prof. [Chen Jingjing](https://fvl.fudan.edu.cn/people/jingjingchen/list.htm) and [Jiang Yu-Gang](https://fvl.fudan.edu.cn/people/yugangjiang/). I also collaborate with Prof. [Wu Zuxuan](https://zxwu.azurewebsites.net/) closely. Before that, I received my B.E. and M.Sc. from Jilin University in July, 2017 and July, 2020. I was a visiting student from October, 2018 to June, 2019 in the National University of Singapore, advised by Prof. [CHUA Tat Seng](https://www.chuatatseng.com/).
+I am currently a postdoc researcher at the International Computer Science Institute ([ICSI](https://www.icsi.berkeley.edu/)), an affiliated institute of UC Berkeley. I received my Ph.D. from School of Computer Science, Fudan University, China in June 2024, advised by Prof. [Chen Jingjing](https://fvl.fudan.edu.cn/people/jingjingchen/list.htm) and [Jiang Yu-Gang](https://fvl.fudan.edu.cn/people/yugangjiang/). I also collaborate with Prof. [Wu Zuxuan](https://zxwu.azurewebsites.net/) closely. Before that, I received my B.E. and M.Sc. from Jilin University in June 2017 and June 2020. I was also a visiting student from October 2018 to June 2019 at the National University of Singapore, advised by Prof. [CHUA Tat Seng](https://www.chuatatseng.com/).
 
-My research interests are on machine learning and deep learning. Recently, I work on adversarial robustness of computer vision.
+My research interests are in the robustness of deep learning. 
+Recently, I work on the robustness of Large Language Models.
 
 ---
 
@@ -26,6 +27,7 @@ Reviewer for:
 
 Honors & Awards
 ===
+* Shanghai Outstanding Graduates, 2024.06
 * Outstanding Master's Thesis of Jilin Province (Dec.2022)
 * China National Scholarship, Fudan University (Oct.2022)
 * Jilin University Outstanding Graduates, Jilin University (Jun.2020)
