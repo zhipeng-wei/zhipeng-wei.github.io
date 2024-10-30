@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhipeng Wei"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student of FVL Group in the School of Computer Science, Fudan University"
-  location         : "Shanghai, China"
+  bio              : "Postdoc at ICSI, UC Berkeley"
+  location         : "California, US"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wXbejuUAAAAJ&hl=en&oi=ao"
-  email            : "zpwei21@m.fudan.edu.cn"
+  email            : "zwei@icsi.berkeley.edu" # "zpwei21@m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
